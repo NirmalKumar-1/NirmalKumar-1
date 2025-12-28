@@ -2,8 +2,8 @@
 
 ### 🚀 MERN Stack Developer | Full Stack Web Developer | DSA Learner
 
-I am a **self-taught MERN Stack Developer** with strong knowledge of **full stack web development** and **Data Structures & Algorithms**.  
-Coming from a **non-IT background**, I learned development through **online courses, practice, and real projects**.
+I am a **MERN Stack Developer** with experience in building full stack web applications using modern technologies.  
+I have strong problem-solving skills and a solid understanding of **Data Structures & Algorithms**.
 
 🔍 **Actively looking for entry-level developer roles or internships.**
 
@@ -51,21 +51,14 @@ Coming from a **non-IT background**, I learned development through **online cour
 
 ---
 
-## 🎓 Learning Journey
-- Self-taught through online courses  
-- Consistent coding practice  
-- Building real-world projects  
-
----
-
 ## 🎯 Career Objective
 To work as an **entry-level MERN Stack / Software Developer**, contribute to real projects, and grow as a developer.
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: github.com/NirmalKumar-1
-- LinkedIn: linkedin.com/in/nirmalsundesha
+- 🔗 **GitHub:** [github.com/NirmalKumar-1](https://github.com/NirmalKumar-1)
+- 💼 **LinkedIn:** [linkedin.com/in/nirmalsundesha](https://www.linkedin.com/in/nirmalsundesha)
 
 ---
 
